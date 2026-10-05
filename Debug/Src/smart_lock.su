@@ -1,9 +1,0 @@
-../Src/smart_lock.c:29:13:Delay_Short	16	static
-../Src/smart_lock.c:33:13:Delay_Long	16	static
-../Src/smart_lock.c:39:16:CompareUID	24	static
-../Src/smart_lock.c:46:16:IsValidUID	16	static
-../Src/smart_lock.c:52:13:AccessGranted	8	static
-../Src/smart_lock.c:70:13:AccessDenied	8	static
-../Src/smart_lock.c:82:13:RFID_Authentication	24	static
-../Src/smart_lock.c:102:13:Keypad_Authentication	16	static
-../Src/smart_lock.c:157:5:main	8	static

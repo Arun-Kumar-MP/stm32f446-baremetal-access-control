@@ -1,3 +1,0 @@
-../Src/keypad.c:33:13:Keypad_Delay	16	static
-../Src/keypad.c:38:6:Keypad_Init	24	static
-../Src/keypad.c:78:6:Keypad_GetKey	16	static
