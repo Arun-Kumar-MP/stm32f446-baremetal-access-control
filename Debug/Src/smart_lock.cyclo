@@ -1,0 +1,9 @@
+../Src/smart_lock.c:29:13:Delay_Short	2
+../Src/smart_lock.c:33:13:Delay_Long	2
+../Src/smart_lock.c:39:16:CompareUID	3
+../Src/smart_lock.c:46:16:IsValidUID	3
+../Src/smart_lock.c:52:13:AccessGranted	1
+../Src/smart_lock.c:70:13:AccessDenied	1
+../Src/smart_lock.c:82:13:RFID_Authentication	3
+../Src/smart_lock.c:102:13:Keypad_Authentication	11
+../Src/smart_lock.c:157:5:main	1
